@@ -1,7 +1,7 @@
 # pangontra_para_sa_bata
 #
 #
-#only veterans what will do to these Sh!tS...
+#only veterans knows what will do to these Sh!tS...
 
 
 
