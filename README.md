@@ -935,3 +935,27 @@
 127.0.0.1 ase-cdn-stg.autodesk.com
 
 127.0.0.1 ase.autodesk.com
+
+0.0.0.0 facebook.com
+
+0.0.0.0 youtube.com
+
+0.0.0.0 x.com
+
+0.0.0.0 tiktok.com
+
+0.0.0.0 www.facebook.com
+
+0.0.0.0 www.youtube.com
+
+0.0.0.0 www.x.com
+
+0.0.0.0 www.tiktok.com
+
+0.0.0.0 www.web.facebook.com
+
+0.0.0.0 m.facebook.com
+
+0.0.0.0 m.youtube.com
+
+0.0.0.0 m.tiktok.com
