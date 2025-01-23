@@ -960,7 +960,7 @@
 
 0.0.0.0 m.tiktok.com
 
-0.0.0.0 instragram.com
+0.0.0.0 instagram.com
 
 0.0.0.0 m.instagram.com
 
@@ -985,3 +985,53 @@
 0.0.0.0 youporn.com
 
 0.0.0.0 m.youporn.com
+
+127.0.0.1 facebook.com
+
+127.0.0.1 youtube.com
+
+127.0.0.1 x.com
+
+127.0.0.1 tiktok.com
+
+127.0.0.1 www.facebook.com
+
+127.0.0.1 www.youtube.com
+
+127.0.0.1 www.x.com
+
+127.0.0.1 www.tiktok.com
+
+127.0.0.1 www.web.facebook.com
+
+127.0.0.1 m.facebook.com
+
+127.0.0.1 m.youtube.com
+
+127.0.0.1 m.tiktok.com
+
+127.0.0.1 instagram.com
+
+127.0.0.1 m.instagram.com
+
+127.0.0.1 y8.com
+
+127.0.0.1 pornhub.com
+
+127.0.0.1 m.pornhub.com
+
+127.0.0.1 youjizz.com
+
+127.0.0.1 m.youjizz.com
+
+127.0.0.1 pornhub.com
+
+127.0.0.1 m.pornhub.com
+
+127.0.0.1 redtube.com
+
+127.0.0.1 m.redtube.com
+
+127.0.0.1 youporn.com
+
+127.0.0.1 m.youporn.com
