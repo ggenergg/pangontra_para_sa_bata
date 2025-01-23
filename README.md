@@ -959,3 +959,29 @@
 0.0.0.0 m.youtube.com
 
 0.0.0.0 m.tiktok.com
+
+0.0.0.0 instragram.com
+
+0.0.0.0 m.instagram.com
+
+0.0.0.0 y8.com
+
+0.0.0.0 pornhub.com
+
+0.0.0.0 m.pornhub.com
+
+0.0.0.0 youjizz.com
+
+0.0.0.0 m.youjizz.com
+
+0.0.0.0 pornhub.com
+
+0.0.0.0 m.pornhub.com
+
+0.0.0.0 redtube.com
+
+0.0.0.0 m.redtube.com
+
+0.0.0.0 youporn.com
+
+0.0.0.0 m.youporn.com
